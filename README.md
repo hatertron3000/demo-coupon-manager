@@ -5,7 +5,7 @@ This app is provided as-is with no guarantees.
 
 ## App Installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hatertron3000/coupon-manager)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hatertron3000/demo-coupon-manager)
 
 To get the app running locally, follow these instructions:
 
